@@ -1,0 +1,10 @@
+1 of 9 repositories focused on computational finance (https://en.wikipedia.org/wiki/Computational_finance): 
+  1. Scientific Computing (https://github.com/AeschylusOfEleusis/ScientificComputation)
+  2. Quantum Computing (https://github.com/AeschylusOfEleusis/QuantumComputation)
+  3. Machine Learning (https://github.com/AeschylusOfEleusis/Machine-Learning)
+  4. Probability Information Risk (https://github.com/AeschylusOfEleusis/ProbabilityInformationRIsk)
+  5. Stochastic calculus (https://github.com/AeschylusOfEleusis/StochasticCalculus)
+  6. Fractional calculus (https://github.com/AeschylusOfEleusis/FractionalCalculus)
+  7. Quantitative Finance (https://github.com/AeschylusOfEleusis/Quantitative-Finance)
+  8. Machine Trading (https://github.com/AeschylusOfEleusis/MachineTrading)
+  9. Option Tading (https://github.com/AeschylusOfEleusis/OptionTrading)
